@@ -1,7 +1,7 @@
-# Open Source Audit: MySQL
+# Open Source Audit: Python
 
-**Student Name:** Kunj Bhardwaj 
-**Registration Number:** 24BAI10945  
+**Student Name:** Kunj Bhardwaj
+**Registration Number:** 24BAI10945
 **Chosen Software:** Python 
 
 ## Project Overview
